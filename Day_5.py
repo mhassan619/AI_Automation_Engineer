@@ -65,4 +65,4 @@ print("JSON file is saved.")
 with open("student.json","r") as f:
     loaded_data = json.load(f)
 print(loaded_data['name'])
-print(loaded_data['marks'])
+print(loaded_data['marks']['OOP'])

@@ -1,0 +1,170 @@
+{
+    "school_name": "Al-Hassan Academy",
+    "students": [
+        {
+            "name": "Hassan",
+            "age": 20,
+            "roll_no": "CS-01",
+            "marks": {
+                "Math": 85,
+                "Physics": 72,
+                "OOP": 91,
+                "English": 68
+            }
+        },
+        {
+            "name": "Ali",
+            "age": 21,
+            "roll_no": "CS-02",
+            "marks": {
+                "Math": 55,
+                "Physics": 61,
+                "OOP": 70,
+                "English": 58
+            }
+        },
+        {
+            "name": "Sara",
+            "age": 20,
+            "roll_no": "CS-03",
+            "marks": {
+                "Math": 95,
+                "Physics": 88,
+                "OOP": 92,
+                "English": 90
+            }
+        },
+        {
+            "name": "Hassan",
+            "age": 20,
+            "roll_no": "CS-01",
+            "marks": {
+                "Math": 85,
+                "Physics": 72,
+                "OOP": 91,
+                "English": 68
+            }
+        },
+        {
+            "name": "Ali",
+            "age": 21,
+            "roll_no": "CS-02",
+            "marks": {
+                "Math": 55,
+                "Physics": 61,
+                "OOP": 70,
+                "English": 58
+            }
+        },
+        {
+            "name": "Sara",
+            "age": 20,
+            "roll_no": "CS-03",
+            "marks": {
+                "Math": 95,
+                "Physics": 88,
+                "OOP": 92,
+                "English": 90
+            }
+        },
+        {
+            "name": "Hassan",
+            "age": 20,
+            "roll_no": "CS-01",
+            "marks": {
+                "Math": 85,
+                "Physics": 72,
+                "OOP": 91,
+                "English": 68
+            }
+        },
+        {
+            "name": "Ali",
+            "age": 21,
+            "roll_no": "CS-02",
+            "marks": {
+                "Math": 55,
+                "Physics": 61,
+                "OOP": 70,
+                "English": 58
+            }
+        },
+        {
+            "name": "Sara",
+            "age": 20,
+            "roll_no": "CS-03",
+            "marks": {
+                "Math": 95,
+                "Physics": 88,
+                "OOP": 92,
+                "English": 90
+            }
+        },
+        {
+            "name": "Hassan",
+            "age": 20,
+            "roll_no": "CS-01",
+            "marks": {
+                "Math": 85,
+                "Physics": 72,
+                "OOP": 91,
+                "English": 68
+            }
+        },
+        {
+            "name": "Ali",
+            "age": 21,
+            "roll_no": "CS-02",
+            "marks": {
+                "Math": 55,
+                "Physics": 61,
+                "OOP": 70,
+                "English": 58
+            }
+        },
+        {
+            "name": "Sara",
+            "age": 20,
+            "roll_no": "CS-03",
+            "marks": {
+                "Math": 95,
+                "Physics": 88,
+                "OOP": 92,
+                "English": 90
+            }
+        },
+        {
+            "name": "Hassan",
+            "age": 20,
+            "roll_no": "CS-01",
+            "marks": {
+                "Math": 85,
+                "Physics": 72,
+                "OOP": 91,
+                "English": 68
+            }
+        },
+        {
+            "name": "Ali",
+            "age": 21,
+            "roll_no": "CS-02",
+            "marks": {
+                "Math": 55,
+                "Physics": 61,
+                "OOP": 70,
+                "English": 58
+            }
+        },
+        {
+            "name": "Sara",
+            "age": 20,
+            "roll_no": "CS-03",
+            "marks": {
+                "Math": 95,
+                "Physics": 88,
+                "OOP": 92,
+                "English": 90
+            }
+        }
+    ]
+}
