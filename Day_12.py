@@ -119,6 +119,14 @@ class School:
             print(f"There are no students yet.")
         for student in self.__students:
             print(f"{student.info()}")
+    def topper_certificate(self):
+        top = self.top_student()
+        print(f"""
+        CERTIFICATE OF MERIT
+    {top.name:<32}||
+    Grade: {top.grade():<27} ||
+    Average: {top.average():.1f}%{' '*21} ||
+""")
     def school_report(self):
         print(f"\n{'='*35}")
         print(f"      {self.school_name}")
