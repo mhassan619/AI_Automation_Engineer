@@ -119,6 +119,10 @@ class School:
             print(f"There are no students yet.")
         for student in self.__students:
             print(f"{student.info()}")
+    def failed_students(self):
+        for student in self.__students:
+            if student.average() < 50:
+                yield student
     def school_report(self):
         print(f"\n{'='*35}")
         print(f"      {self.school_name}")
