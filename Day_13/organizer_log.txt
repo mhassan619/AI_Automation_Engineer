@@ -1,0 +1,48 @@
+
+--- 2026-04-14 09:57:31.563774 ---
+
+--- 2026-04-14 09:59:13.081871 ---
+
+--- 2026-04-14 10:00:10.034833 ---
+ archive.zip - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ data.xlsx - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ image2.png - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ music.mp3 - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ notes.txt - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ photo.jpg - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ report.pdf - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ script.py - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+ video.mp4 - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__get_category'
+
+--- 2026-04-14 10:02:31.320306 ---
+ archive.zip - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ data.xlsx - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ image2.png - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ music.mp3 - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ notes.txt - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ photo.jpg - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ report.pdf - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ script.py - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+ video.mp4 - Error: 'FileOrganizer' object has no attribute '_FileOrganizer__create_folder'
+
+--- 2026-04-14 10:03:18.482163 ---
+ archive.zip -> Archives/
+ data.xlsx -> Documents/
+ image2.png -> Images/
+ music.mp3 -> Audio/
+ notes.txt -> Documents/
+ photo.jpg -> Images/
+ report.pdf -> Documents/
+ script.py -> Code/
+ video.mp4 -> Videos/
+
+--- 2026-04-14 10:04:05.125396 ---
+ archive.zip -> Archives/
+ data.xlsx -> Documents/
+ image2.png -> Images/
+ music.mp3 -> Audio/
+ notes.txt -> Documents/
+ photo.jpg -> Images/
+ report.pdf -> Documents/
+ script.py -> Code/
+ video.mp4 -> Videos/
