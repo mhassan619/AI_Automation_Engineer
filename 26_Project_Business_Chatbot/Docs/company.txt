@@ -1,0 +1,21 @@
+Company: TechSolve Pakistan
+Location: Lahore, Pakistan
+Services: AI Automation, Web Development, Data Analytics
+Contact: info@techsolve.pk | +92-300-1234567
+Hours: Monday-Saturday, 9AM-6PM
+
+Pricing:
+- AI Chatbot Development: PKR 50,000 - 150,000
+- Web Scraping Service: PKR 20,000 - 80,000
+- Data Dashboard: PKR 30,000 - 100,000
+- Custom AI Agent: PKR 80,000 - 200,000
+
+FAQ:
+Q: How long does a project take?
+A: Simple projects 1-2 weeks, complex AI projects 4-8 weeks.
+
+Q: Do you provide support after delivery?
+A: Yes, 30 days free support after project delivery.
+
+Q: What technologies do you use?
+A: Python, LangChain, Streamlit, FastAPI, PostgreSQL.
